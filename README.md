@@ -1,3 +1,3 @@
 # ML__-thrive
 demo
-ploase follow the instructions bellow
+please follow the instructions bellow
